@@ -1,6 +1,6 @@
 {
   "name": "com.cosanlab.trgen",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "TRGen Trigger Client",
   "description": "Un client Unity per comunicare con dispositivi TRGen via socket, basato su trgenpy.",
   "unity": "2021.3",

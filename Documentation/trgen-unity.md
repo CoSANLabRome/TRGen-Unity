@@ -11,7 +11,7 @@ To install this package add this package inside the `Packages/manifest.json` fil
   "dependencies": {
     ...
     ...
-    "com.cosanlab.trgen": "0.0.1",
+    "com.cosanlab.trgen": "1.0.0",
   }
 ```
 
