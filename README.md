@@ -2,7 +2,7 @@
   <img src="images/banner.png" alt="TriggerBox Banner" width="600px" height="300px">
 </p>
 <h1 align="center">TriggerBox CLI</h1>
-![Version: 1.0.12](https://img.shields.io/badge/Version-1.0.12informational?style=flat-square) ![Type: application](https://img.shields.io/badge/Type-application-informational?style=flat-square) ![AppVersion: 1.0.12](https://img.shields.io/badge/AppVersion-1.0.12-informational?style=flat-square)
+
 <h3 align="center"> A Unity library that manages Ethernet socket communication with the CoSANLab TriggerBox device </h3>
 
 
